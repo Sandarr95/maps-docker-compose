@@ -7,7 +7,7 @@ var streets = L.tileLayer('http://maps.localnet:8082/osm_tiles/{z}/{x}/{y}.png',
 
 module.exports = {
   defaultState: {
-    center: L.latLng(-33.846467,151.116428),
+    center: L.latLng(52.1637,5.3933),
     zoom: 12,
     waypoints: [],
     language: 'en',
